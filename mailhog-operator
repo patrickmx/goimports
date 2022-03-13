@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta http-equiv="Expires" content="3600"/>
+		<meta name="go-import"
+		      content="goimports.patrick.mx/mailhog-operator git https://github.com/patrickmx/mailhog-operator.git" />
+		<meta name="go-source"
+		      content="goimports.patrick.mx/mailhog-operator https://github.com/patrickmx/mailhog-operator https://github.com/patrickmx/mailhog-operator/tree/master{/dir} https://github.com/patrickmx/mailhog-operator/blob/master{/dir}/{file}#L{line}">
+		<meta http-equiv="Refresh" content="1; URL=https://github.com/patrickmx/mailhog-operator">
+                <title>mailhog-operator</title>
+        </head>
+        <body>
+        </body>
+</html>
